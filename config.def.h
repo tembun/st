@@ -75,6 +75,8 @@ static int bellvolume = 0;
 
 /* default TERM value */
 char *termname = "st-mono";
+/* title for a window */
+char *wintitle = "st";
 
 /*
  * spaces per tab
